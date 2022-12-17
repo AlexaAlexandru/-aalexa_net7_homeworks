@@ -3,34 +3,38 @@ namespace Homework_W4_OOP_Exercises
 {
 	public class University
 	{
-		public string name;
-		public Student student;
-		public Faculty faculty;
-        List<string> listStudents = new List<string>();
+        public string name;
+        public List<Student> students;
+        public List<Faculty> faculties;
+
         public University(string name)
-		{
-			this.name = name;
-			this.student = student;
-			this.faculty = faculty;
-		}
+        {
+            this.name = name;
+            students = new List<Student>();
+            faculties = new List<Faculty>();
+        }
 
-        public List<string> AddStudent(Student john)
-		{
+        public void AddStudent(Student item)
+        {
+            students.Add(item);
+        }
 
-            listStudents.Add(student.GetFullName());
+        public int GetStudentCount()
+        {
+            return students.Count();
+        }
 
-			return listStudents;
-		}
-		/*
-        public void AddFaculty()
-		{
-			faculty.GetSubjectsTaught();
-		}
-		*/
-		public int GetStudentCount()
-		{ 
-			return listStudents.Count();
-		}
-	}
+        public void AddFaculties(Faculty item)
+        {
+            faculties.Add(item);
+        }
+
+        public int GetFacultiesCount()
+        {
+            return faculties.Count();
+        }
+
+        
+    }
 }
 

@@ -3,14 +3,7 @@ namespace Homework_W4_OOP_Exercises
 {
 	public class Calculator
 	{
-		public int x;
-		public int y;
-
-		public Calculator()
-		{
-			
-		}
-
+	
 		public int Add(int x,int y)
 		{
 			int sum = x + y;

@@ -80,13 +80,54 @@ Console.WriteLine("------EX 5 -------");
 
 University myUnniversity = new University("My university");
 
+
 Student john = new Student("John", "Doe", 123456, 3.8);
 Student jane = new Student("Jane", "Smith", 6554321, 3.6);
+
 
 myUnniversity.AddStudent(john);
 myUnniversity.AddStudent(jane);
 
+List<string> maryFaculties = new List<string>() { "Math", "Physics" };
+List<string> bobFaculties = new List<string>() { "English", "History" };
+
+Faculty mary = new Faculty("mary", "Jones", 111111,maryFaculties);
+Faculty bob = new Faculty("bob", "Smith", 222222, bobFaculties);
+
 Console.WriteLine(myUnniversity.GetStudentCount());
+
+myUnniversity.AddFaculties(mary);
+myUnniversity.AddFaculties(bob);
+
+Console.WriteLine(myUnniversity.GetFacultiesCount());
+
+Console.WriteLine();
+
+Console.WriteLine("------Ex 6 and 7 -------");
+
+College college = new College();
+college.name = "UMF Grigore T.Popa";
+
+College college1 = new College();
+college1.name = "Universitatea Alexandru Ioan Cuza";
+
+StudentEx6 student1 = new StudentEx6("Alex", DateTime.Now.AddYears(-5), DateTime.Now.AddYears(-1),college, DateTime.Now.AddYears(-25));
+
+Console.WriteLine(student1.IsStillStudent());
+Console.WriteLine(student1.GetAge());
+
+student1.Print();
+
+
+Professor prof = new Professor("Ionescu Nelu", college1, "Topografie");
+
+prof.Print();
+prof.AddStudent(student1);
+
+
+
+
+
 
 
 
