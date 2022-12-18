@@ -108,8 +108,6 @@ Console.WriteLine("------Ex 6 and 7 -------");
 College college = new College();
 college.name = "UMF Grigore T.Popa";
 
-College college1 = new College();
-college1.name = "Universitatea Alexandru Ioan Cuza";
 
 StudentEx6 student1 = new StudentEx6("Alex", DateTime.Now.AddYears(-5), DateTime.Now.AddYears(-1),college, DateTime.Now.AddYears(-25));
 
@@ -118,11 +116,16 @@ Console.WriteLine(student1.GetAge());
 
 student1.Print();
 
+College college1 = new College();
+college1.name = "Universitatea Alexandru Ioan Cuza";
 
 Professor prof = new Professor("Ionescu Nelu", college1, "Topografie");
 
-prof.Print();
+prof.Print(); // am initializat aceasta metoda mai mult pentru o verificare 
+
 prof.AddStudent(student1);
+
+prof.StudentVerification(student1);
 
 
 
