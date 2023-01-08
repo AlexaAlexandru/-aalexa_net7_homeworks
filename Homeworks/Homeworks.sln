@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework W4 OOP intro ex5",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework W4-OOP_Exercises", "Homework W4-OOP_Exercises\Homework W4-OOP_Exercises.csproj", "{68290650-8E1C-4904-9C0F-074CB0DA867A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework W5 OOP advanced", "Homework W5 OOP advanced\Homework W5 OOP advanced.csproj", "{97E976E2-5E30-4DC4-B7C6-556716167858}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{68290650-8E1C-4904-9C0F-074CB0DA867A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68290650-8E1C-4904-9C0F-074CB0DA867A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68290650-8E1C-4904-9C0F-074CB0DA867A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97E976E2-5E30-4DC4-B7C6-556716167858}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97E976E2-5E30-4DC4-B7C6-556716167858}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97E976E2-5E30-4DC4-B7C6-556716167858}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97E976E2-5E30-4DC4-B7C6-556716167858}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

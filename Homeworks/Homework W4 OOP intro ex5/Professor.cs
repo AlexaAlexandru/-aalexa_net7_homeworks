@@ -45,7 +45,7 @@ namespace HomeWork_W4_OOP_intro
         public void Check()
         {
 
-            if (student.college != college1)
+            if ( != college1.name)
             {
                 throw new Exception("the professor's and student's college is not the same");
             }

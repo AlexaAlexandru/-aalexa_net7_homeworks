@@ -14,30 +14,38 @@ namespace Homework_W4_OOP_Exercises
 			this.year = year;
 
 		}
+
 		public string GetTitle()
 		{
 			return title;
 		}
+
 		public string GetAuthor()
 		{
 			return author;
 		}
+
 		public int GetYear()
 		{
 			return year;
 		}
+
 		public void SetTitle(string title)
 		{
 			this.title = title;
 		}
+
 		public void SetAuthor(string author)
 		{
 			this.author = author;
 		}
+
 		public void SetYear(int year)
 		{
 			this.year = year;
 		}
+
 	}
+
 }
 

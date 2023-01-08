@@ -12,6 +12,7 @@ namespace Homework_W4_OOP_Exercises
         public string collegeStudent;
 
         public List<StudentEx6> studentsWhoGiveTheirDegree = new List<StudentEx6>() { };
+
         public Professor(string name, College college,string specialization)
 		{
 			this.name = name;
@@ -20,23 +21,15 @@ namespace Homework_W4_OOP_Exercises
             
             
         }
+
 		public Professor(string name, College college, string specialization, List<StudentEx6>studentsWhoGiveTheirDegree)
 		{
 			this.name = name;
             this.college = college;
             this.specialization = specialization;
 			this.studentsWhoGiveTheirDegree = studentsWhoGiveTheirDegree;
-       
-        }
 
-        public void AddStudent(StudentEx6 item)
-        {
-            studentsWhoGiveTheirDegree.Add(item);
-        }
-
-        public void StudentVerification(StudentEx6 item)
-        {
-            if (item.college.name.ToLower()!=this.college.name.ToLower())
+            if (college.name.ToLower() != this.college.name.ToLower())
             {
                 throw new Exception("Warning! The professor and the student don't have the same college");
             }
@@ -45,16 +38,19 @@ namespace Homework_W4_OOP_Exercises
                 Console.WriteLine("The professor and the student match the college they declared");
             }
         }
-       
+
+        public void AddStudent(StudentEx6 item)
+        {
+            studentsWhoGiveTheirDegree.Add(item);
+        }
+
         public void Print()
         {
 
             Console.WriteLine($"The professor {this.name} teaches at {this.college.name} ");
-            
-           
         }
 
-       
     }
+
 }
 
