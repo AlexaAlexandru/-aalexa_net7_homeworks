@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Homework_W5_OOP_advanced</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Exercise 1\" />
+    <None Remove="Exercise 2\" />
+    <None Remove="Exercise 3\" />
+    <None Remove="Exercise 4\" />
+    <None Remove="Exercise 5\" />
+    <None Remove="Exercise 6\" />
+    <None Remove="Exercise7\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Exercise 1\" />
+    <Folder Include="Exercise 2\" />
+    <Folder Include="Exercise 3\" />
+    <Folder Include="Exercise 4\" />
+    <Folder Include="Exercise 5\" />
+    <Folder Include="Exercise 6\" />
+    <Folder Include="Exercise7\" />
+  </ItemGroup>
+</Project>
