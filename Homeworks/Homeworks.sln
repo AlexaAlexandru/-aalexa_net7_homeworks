@@ -19,7 +19,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework W4-OOP_Exercises",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework W5 OOP advanced", "Homework W5 OOP advanced\Homework W5 OOP advanced.csproj", "{97E976E2-5E30-4DC4-B7C6-556716167858}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework W7  Exceptions-Extension Methods-LINQ", "Homework W7  Exceptions-Extension Methods-LINQ\Homework W7  Exceptions-Extension Methods-LINQ.csproj", "{401E230B-572F-4147-A97D-933952C34ACF}"
+Project("{9344BDBB-3E7F-41FC-A0DD-8665D75EE146}") = "Homework W7  Exceptions-Extension Methods-LINQ", "Homework W7  Exceptions-Extension Methods-LINQ\Homework W7  Exceptions-Extension Methods-LINQ.csproj", "{5965CD9D-E89C-4111-9851-F1AD7B55358B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework W7", "Homework W7\Homework W7.csproj", "{4E41E88D-B562-4CAA-88AD-32CBBDEBBD70}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,10 +61,14 @@ Global
 		{97E976E2-5E30-4DC4-B7C6-556716167858}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97E976E2-5E30-4DC4-B7C6-556716167858}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97E976E2-5E30-4DC4-B7C6-556716167858}.Release|Any CPU.Build.0 = Release|Any CPU
-		{401E230B-572F-4147-A97D-933952C34ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{401E230B-572F-4147-A97D-933952C34ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{401E230B-572F-4147-A97D-933952C34ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{401E230B-572F-4147-A97D-933952C34ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5965CD9D-E89C-4111-9851-F1AD7B55358B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5965CD9D-E89C-4111-9851-F1AD7B55358B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5965CD9D-E89C-4111-9851-F1AD7B55358B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5965CD9D-E89C-4111-9851-F1AD7B55358B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E41E88D-B562-4CAA-88AD-32CBBDEBBD70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E41E88D-B562-4CAA-88AD-32CBBDEBBD70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E41E88D-B562-4CAA-88AD-32CBBDEBBD70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E41E88D-B562-4CAA-88AD-32CBBDEBBD70}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
