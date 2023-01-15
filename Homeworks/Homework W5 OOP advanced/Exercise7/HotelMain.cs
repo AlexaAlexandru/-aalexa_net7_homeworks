@@ -10,7 +10,7 @@ namespace Homework_W5_OOP_advanced.Exercise7
                 MenuHotel();
 
                 int option = Convert.ToInt32(Console.ReadLine());
-
+                Hotel hotel1 = GenerateHotel();
                 switch (option)
                 {
                     case 1:
@@ -19,64 +19,64 @@ namespace Homework_W5_OOP_advanced.Exercise7
 
                         break;
 
-                    case 2:
+                    //case 2:
 
-                        GenerateClientData(GenerateHotel());
+                    //    GenerateClientData(hotel1);
                         
-                        break;
+                    //    break;
 
-                    case 3:
+                    //case 3:
 
-                        RemoveTheClient(GenerateHotel());
+                    //    RemoveTheClient(hotel1);
 
-                        break;
+                    //    break;
 
-                    case 4:
+                    //case 4:
 
-                        AddTheSingleRoom(GenerateHotel());
+                    //    AddTheSingleRoom(hotel1);
 
-                        break;
+                    //    break;
 
-                    case 5:
+                    //case 5:
 
-                        AddTheDoubleRoom(GenerateHotel());
+                    //    AddTheDoubleRoom(hotel1);
 
-                        break;
+                    //    break;
 
-                    case 6:
+                    //case 6:
 
-                        AddTheLuxuryRoom(GenerateHotel());
-                        break;
+                    //    AddTheLuxuryRoom(hotel1);
+                    //    break;
 
-                    case 7:
+                    //case 7:
 
-                        UpdateTheRoomPrice(GenerateHotel());
-                        break;
+                    //    UpdateTheRoomPrice(hotel1);
+                    //    break;
 
-                    case 8:
+                    //case 8:
 
-                        ShowAllTheRooms(GenerateHotel());
-                        break;
+                    //    ShowAllTheRooms(hotel1);
+                    //    break;
 
-                    case 9:
+                    //case 9:
 
-                        AddABooking(GenerateHotel());
-                        break;
+                    //    AddABooking(hotel1);
+                    //    break;
 
-                    case 10:
+                    //case 10:
 
-                        ShowAllBookings(GenerateHotel());
-                        break;
+                    //    ShowAllBookings(hotel1);
+                    //    break;
 
-                    case 11:
+                    //case 11:
 
-                        ShowActiveBookings(GenerateHotel());
-                        break;
+                    //    ShowActiveBookings(hotel1);
+                    //    break;
 
-                    case 12:
+                    //case 12:
 
-                        ClearBooking(GenerateHotel());
-                        break;
+                    //    ClearBooking(hotel1);
+                    //    break;
                 }
                 if(option == 0)
                 {

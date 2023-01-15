@@ -235,6 +235,8 @@ void RunExercise7Testing()
 
 HotelMain.Run();
 
+//HotelMain2.Run();
+
 
 
 
