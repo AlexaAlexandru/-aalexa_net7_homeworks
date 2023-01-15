@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework W4-OOP_Exercises",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework W5 OOP advanced", "Homework W5 OOP advanced\Homework W5 OOP advanced.csproj", "{97E976E2-5E30-4DC4-B7C6-556716167858}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework W7  Exceptions-Extension Methods-LINQ", "Homework W7  Exceptions-Extension Methods-LINQ\Homework W7  Exceptions-Extension Methods-LINQ.csproj", "{401E230B-572F-4147-A97D-933952C34ACF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{97E976E2-5E30-4DC4-B7C6-556716167858}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{97E976E2-5E30-4DC4-B7C6-556716167858}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{97E976E2-5E30-4DC4-B7C6-556716167858}.Release|Any CPU.Build.0 = Release|Any CPU
+		{401E230B-572F-4147-A97D-933952C34ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{401E230B-572F-4147-A97D-933952C34ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{401E230B-572F-4147-A97D-933952C34ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{401E230B-572F-4147-A97D-933952C34ACF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

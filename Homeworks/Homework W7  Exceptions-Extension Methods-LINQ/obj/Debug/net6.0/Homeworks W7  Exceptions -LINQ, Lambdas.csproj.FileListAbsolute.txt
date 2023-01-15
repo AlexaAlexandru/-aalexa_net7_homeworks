@@ -1,0 +1,15 @@
+/Users/alexandrualexa/Documents/NET/myownAlex/Homeworks copy/Homeworks W7  Exceptions -LINQ, Lambdas/bin/Debug/net6.0/Homeworks W7  Exceptions -LINQ, Lambdas
+/Users/alexandrualexa/Documents/NET/myownAlex/Homeworks copy/Homeworks W7  Exceptions -LINQ, Lambdas/bin/Debug/net6.0/Homeworks W7  Exceptions -LINQ, Lambdas.deps.json
+/Users/alexandrualexa/Documents/NET/myownAlex/Homeworks copy/Homeworks W7  Exceptions -LINQ, Lambdas/bin/Debug/net6.0/Homeworks W7  Exceptions -LINQ, Lambdas.runtimeconfig.json
+/Users/alexandrualexa/Documents/NET/myownAlex/Homeworks copy/Homeworks W7  Exceptions -LINQ, Lambdas/bin/Debug/net6.0/Homeworks W7  Exceptions -LINQ, Lambdas.dll
+/Users/alexandrualexa/Documents/NET/myownAlex/Homeworks copy/Homeworks W7  Exceptions -LINQ, Lambdas/bin/Debug/net6.0/Homeworks W7  Exceptions -LINQ, Lambdas.pdb
+/Users/alexandrualexa/Documents/NET/myownAlex/Homeworks copy/Homeworks W7  Exceptions -LINQ, Lambdas/obj/Debug/net6.0/Homeworks W7  Exceptions -LINQ, Lambdas.csproj.AssemblyReference.cache
+/Users/alexandrualexa/Documents/NET/myownAlex/Homeworks copy/Homeworks W7  Exceptions -LINQ, Lambdas/obj/Debug/net6.0/Homeworks W7  Exceptions -LINQ, Lambdas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandrualexa/Documents/NET/myownAlex/Homeworks copy/Homeworks W7  Exceptions -LINQ, Lambdas/obj/Debug/net6.0/Homeworks W7  Exceptions -LINQ, Lambdas.AssemblyInfoInputs.cache
+/Users/alexandrualexa/Documents/NET/myownAlex/Homeworks copy/Homeworks W7  Exceptions -LINQ, Lambdas/obj/Debug/net6.0/Homeworks W7  Exceptions -LINQ, Lambdas.AssemblyInfo.cs
+/Users/alexandrualexa/Documents/NET/myownAlex/Homeworks copy/Homeworks W7  Exceptions -LINQ, Lambdas/obj/Debug/net6.0/Homeworks W7  Exceptions -LINQ, Lambdas.csproj.CoreCompileInputs.cache
+/Users/alexandrualexa/Documents/NET/myownAlex/Homeworks copy/Homeworks W7  Exceptions -LINQ, Lambdas/obj/Debug/net6.0/Homeworks W7  Exceptions -LINQ, Lambdas.dll
+/Users/alexandrualexa/Documents/NET/myownAlex/Homeworks copy/Homeworks W7  Exceptions -LINQ, Lambdas/obj/Debug/net6.0/refint/Homeworks W7  Exceptions -LINQ, Lambdas.dll
+/Users/alexandrualexa/Documents/NET/myownAlex/Homeworks copy/Homeworks W7  Exceptions -LINQ, Lambdas/obj/Debug/net6.0/Homeworks W7  Exceptions -LINQ, Lambdas.pdb
+/Users/alexandrualexa/Documents/NET/myownAlex/Homeworks copy/Homeworks W7  Exceptions -LINQ, Lambdas/obj/Debug/net6.0/Homeworks W7  Exceptions -LINQ, Lambdas.genruntimeconfig.cache
+/Users/alexandrualexa/Documents/NET/myownAlex/Homeworks copy/Homeworks W7  Exceptions -LINQ, Lambdas/obj/Debug/net6.0/ref/Homeworks W7  Exceptions -LINQ, Lambdas.dll

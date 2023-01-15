@@ -1,0 +1,15 @@
+/Users/alexandrualexa/Documents/-aalexa_net7_homeworks/Homeworks/Homework W7  Exceptions-Extension Methods-LINQ/bin/Debug/net6.0/Homework W7  Exceptions-Extension Methods-LINQ
+/Users/alexandrualexa/Documents/-aalexa_net7_homeworks/Homeworks/Homework W7  Exceptions-Extension Methods-LINQ/bin/Debug/net6.0/Homework W7  Exceptions-Extension Methods-LINQ.deps.json
+/Users/alexandrualexa/Documents/-aalexa_net7_homeworks/Homeworks/Homework W7  Exceptions-Extension Methods-LINQ/bin/Debug/net6.0/Homework W7  Exceptions-Extension Methods-LINQ.runtimeconfig.json
+/Users/alexandrualexa/Documents/-aalexa_net7_homeworks/Homeworks/Homework W7  Exceptions-Extension Methods-LINQ/bin/Debug/net6.0/Homework W7  Exceptions-Extension Methods-LINQ.dll
+/Users/alexandrualexa/Documents/-aalexa_net7_homeworks/Homeworks/Homework W7  Exceptions-Extension Methods-LINQ/bin/Debug/net6.0/Homework W7  Exceptions-Extension Methods-LINQ.pdb
+/Users/alexandrualexa/Documents/-aalexa_net7_homeworks/Homeworks/Homework W7  Exceptions-Extension Methods-LINQ/obj/Debug/net6.0/Homework W7  Exceptions-Extension Methods-LINQ.csproj.AssemblyReference.cache
+/Users/alexandrualexa/Documents/-aalexa_net7_homeworks/Homeworks/Homework W7  Exceptions-Extension Methods-LINQ/obj/Debug/net6.0/Homework W7  Exceptions-Extension Methods-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexandrualexa/Documents/-aalexa_net7_homeworks/Homeworks/Homework W7  Exceptions-Extension Methods-LINQ/obj/Debug/net6.0/Homework W7  Exceptions-Extension Methods-LINQ.AssemblyInfoInputs.cache
+/Users/alexandrualexa/Documents/-aalexa_net7_homeworks/Homeworks/Homework W7  Exceptions-Extension Methods-LINQ/obj/Debug/net6.0/Homework W7  Exceptions-Extension Methods-LINQ.AssemblyInfo.cs
+/Users/alexandrualexa/Documents/-aalexa_net7_homeworks/Homeworks/Homework W7  Exceptions-Extension Methods-LINQ/obj/Debug/net6.0/Homework W7  Exceptions-Extension Methods-LINQ.csproj.CoreCompileInputs.cache
+/Users/alexandrualexa/Documents/-aalexa_net7_homeworks/Homeworks/Homework W7  Exceptions-Extension Methods-LINQ/obj/Debug/net6.0/Homework W7  Exceptions-Extension Methods-LINQ.dll
+/Users/alexandrualexa/Documents/-aalexa_net7_homeworks/Homeworks/Homework W7  Exceptions-Extension Methods-LINQ/obj/Debug/net6.0/refint/Homework W7  Exceptions-Extension Methods-LINQ.dll
+/Users/alexandrualexa/Documents/-aalexa_net7_homeworks/Homeworks/Homework W7  Exceptions-Extension Methods-LINQ/obj/Debug/net6.0/Homework W7  Exceptions-Extension Methods-LINQ.pdb
+/Users/alexandrualexa/Documents/-aalexa_net7_homeworks/Homeworks/Homework W7  Exceptions-Extension Methods-LINQ/obj/Debug/net6.0/Homework W7  Exceptions-Extension Methods-LINQ.genruntimeconfig.cache
+/Users/alexandrualexa/Documents/-aalexa_net7_homeworks/Homeworks/Homework W7  Exceptions-Extension Methods-LINQ/obj/Debug/net6.0/ref/Homework W7  Exceptions-Extension Methods-LINQ.dll
