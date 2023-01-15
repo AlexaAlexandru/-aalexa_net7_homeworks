@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>Homework_OOP_Advanced</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Ex 1\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Ex 1\" />
+  </ItemGroup>
+</Project>
